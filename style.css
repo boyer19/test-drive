@@ -1,0 +1,36 @@
+body {
+    background-color: lightskyblue;
+}
+#real-alert {
+    color: red;
+    font-size: 52px;
+}
+
+#test-only {
+    color:green;
+    font-size: 48px;
+    
+}
+
+.missile-link {
+    display:block;
+}
+.section {
+    border: 2px black double;
+    box-shadow: 2px 2px lightslategray;
+    margin: 5px;
+    padding: 5px;
+}
+
+#section-1 {
+    background-color:red;
+}
+
+#section-2 {
+    background-color: green;
+}
+
+.content {
+    background: grey;
+    padding: 10px;
+}
