@@ -1,0 +1,32 @@
+.jumbotron {
+    background-color: lightsteelblue;
+    color:mediumblue;
+    text-shadow: 3px 3px 1px lightpink;
+    text-align: center;
+}
+
+.intro {
+    font-family: 'Gabriola', Rockwell Extra Bold, Monaco;
+    font-size: 58px;
+    font-weight: bolder;
+}
+
+body {
+    font-family: 'Texturina', serif;
+    background-color: rgb(111, 143, 170);
+}
+
+html {
+    background-color: #42ddf5;
+}
+
+#form {
+    background-color:rgb(118, 164, 233);
+}
+
+.form-control {
+    background-color: lightsteelblue;
+  
+}
+
+
